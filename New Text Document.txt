@@ -1,0 +1,7 @@
+instrutions
+use intellij to to run the backend folder
+use vs code to run front end folder
+for api use (postman)
+use database for my sql work bench
+
+you need all this to run this application 
