@@ -1,0 +1,13 @@
+package com.example.Fullstackbackend;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class  FullstackBackEndApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(FullstackBackEndApplication.class, args);
+	}
+
+}
